@@ -1,1 +1,1 @@
-# Responsive-Dashboard-Design
+# Responsive Dashboard Design: HTML, CSS & JS
